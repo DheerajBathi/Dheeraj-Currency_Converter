@@ -1,4 +1,4 @@
- name: Currency_Converter 
+name: Currency_Converter 
 on: 
   push: 
     branches: [ "main" ] 
